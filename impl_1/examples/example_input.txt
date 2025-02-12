@@ -1,0 +1,14 @@
+This is an example input
+
+%
+GLE
+0.0 0.0 1.0
+-2.0 2.0
+2
+Nonsense information
+%
+GLO
+0.0 0.0 0.0 1.0
+-1.0 2.0
+3
+
